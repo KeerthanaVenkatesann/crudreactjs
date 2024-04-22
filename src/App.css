@@ -1,0 +1,25 @@
+.Header {
+  z-index: 200px;
+}
+
+body{
+  background-image: url(../public/Assets/image/bg4.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+ 
+
+}
+
+.body-bg{
+  background-color: rgb(136, 171, 171);
+  
+}
+.crud{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 92.2vh;
+  font-family:cursive;
+
+ 
+}
